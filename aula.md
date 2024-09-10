@@ -1,10 +1,10 @@
-Linguagem de programação
+## Linguagem de programação
 Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-Algoritmo: Sequência de passos lógica e finita para resolução de um problema.
+# Algoritmo: Sequência de passos lógica e finita para resolução de um problema.
 
-Peças de uma liguagem
+# Peças de uma liguagem
 [x] Comentários
 [x] Declarações de variáveis (const, let)
 [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
@@ -13,34 +13,34 @@ Peças de uma liguagem
 [] Controle de fluxo (if/else)
 [] Estrutura de repetição (for, while)
 
-Fases de resolução de um problema
+# Fases de resolução de um problema
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
 
-Escopo de variaveis
+# Escopo de variaveis
 [x] Variáveis globais e locais
 [x] Constantes
 
-Tipos de dados
+# Tipos de dados
 [x] Strings (textos): "" '' ``
 [x] Numbers: 2 1.4
 [x] Boolena: true, false
 
-Operadores
+# Operadores
 [x] Operador de atribuição de valor
 [x] Operador de concatenação
 
-Estrutura de dados
+# Estrutura de dados
 Arrays:
 [x] Uma lista que contém qualquer tipo de dado
 
-Objetos:
+# Objetos:
 [x] Atributos e métodos
 [x] Criação e manipulação de objetos
 [x] Acesso a propriedades de objetos
 
-Functions:
+# Functions:
 [x] criar, passar argumento
 [x] executar
 [x] arrow function / named function
