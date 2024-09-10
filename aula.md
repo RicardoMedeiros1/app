@@ -1,24 +1,54 @@
-## Linguagem de programação
-
-Maneira de dar instrução ao computador
+Linguagem de programação
+Maneira de dar instrução ao computador.
 Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
 
-    **Algoritmo**: Sequencia de passos logica e finita para resolução de um problema.
+Algoritmo: Sequência de passos lógica e finita para resolução de um problema.
 
+Peças de uma liguagem
+[x] Comentários
+[x] Declarações de variáveis (const, let)
+[x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+[x] Tipos de dados (string, number, boolean)
+[x] Estrutura de dados (functions, object, array)
+[] Controle de fluxo (if/else)
+[] Estrutura de repetição (for, while)
 
-## Peças de uma Linguagem
-
--Comentário
--Declaração de variáveis (Const , let)
--Operadores (atribuição, concatenação, matemáticos, logicos )
--Tipos de dados (String, number, boolean)
--Estrutura de dados  (functions, object array)
--Controle de fluxo (if/else)
--Estrutura de repetição (flor, while)
-
-
-# Fase da resolução de um problema
-
+Fases de resolução de um problema
 Coletar os dados
 Processar os dados (manipular, alterar ...)
 Apresentar os dados
+
+Escopo de variaveis
+[x] Variáveis globais e locais
+[x] Constantes
+
+Tipos de dados
+[x] Strings (textos): "" '' ``
+[x] Numbers: 2 1.4
+[x] Boolena: true, false
+
+Operadores
+[x] Operador de atribuição de valor
+[x] Operador de concatenação
+
+Estrutura de dados
+Arrays:
+[x] Uma lista que contém qualquer tipo de dado
+
+Objetos:
+[x] Atributos e métodos
+[x] Criação e manipulação de objetos
+[x] Acesso a propriedades de objetos
+
+Functions:
+[x] criar, passar argumento
+[x] executar
+[x] arrow function / named function
+
+# Estrutura de repetição
+
+- [x] While
+
+# Condicionais
+
+- [] Switchs
