@@ -52,3 +52,8 @@ Arrays:
 # Condicionais
 
 - [x] Switchs
+
+## Modulos em Node.js
+
+-[x] Importação de Móduilos (require, CommonJS)
+-[x] Biblioteca 'inquirer' para criar prompts interativos
