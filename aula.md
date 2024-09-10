@@ -35,6 +35,7 @@ Apresentar os dados
 # Estrutura de dados
 Arrays:
 [x] Uma lista que contém qualquer tipo de dado
+[x] Metodos de Array : push, find, forEach
 
 # Objetos:
 [x] Atributos e métodos
