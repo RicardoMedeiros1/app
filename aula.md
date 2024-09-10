@@ -51,4 +51,4 @@ Functions:
 
 # Condicionais
 
-- [] Switchs
+- [x] Switchs
